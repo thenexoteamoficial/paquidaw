@@ -1,2 +1,1 @@
-flask
-flask-cors
+pip install ursina pyttsx3
