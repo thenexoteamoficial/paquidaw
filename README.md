@@ -1,20 +1,20 @@
-# 🎛️ PaquiDAW
-
-DAW (Digital Audio Workstation) hecho con Python + HTML
+# 👾 videojuego hecho 100% hecho con Python 
 
 ## 🚀 Funciones
-- 🎧 Multitrack
-- 🎤 Grabación
-- 🎹 Instrumentos virtuales
-- 🧠 IA (base para Demucs)
+- juego tipo halo 
+- calidad AAA 
+- plataforma Windows 
+- (próximamente Android)
 
 ## ▶️ Cómo usar
 1. Instalar dependencias:
-pip install -r requirements.txt
+pip install ursina pyttsx3
 
-2. Ejecutar servidor:
+2. Ejecutar codigo:
 python server.py
 
-3. Abrir index.html
+3. hacer el instalable .exe:
+pyinstaller --onefile --windowed main.py
 
-## 🔥 Proyecto por PaquiProductions
+
+## 🔥 Proyecto por thenexoteamofi 
