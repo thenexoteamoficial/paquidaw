@@ -1,1 +1,2 @@
-pip install ursina pyttsx3
+ursina
+pyttsx3
